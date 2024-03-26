@@ -11,7 +11,7 @@ This script automates the job application process on LinkedIn using Selenium Web
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/linkedin-job-automation.git
+   git clone https://github.com/your_username/linkedin_job_automation.git
    
     ```
 2. Install dependencies:
@@ -27,10 +27,7 @@ This script automates the job application process on LinkedIn using Selenium Web
    ```
    
 ## Usage
-1. Run the script:
-   ```
-   python job_automation_script.py
-    ```
+1. Run the script
 2. Solve the CAPTCHA manually when prompted.
 3. The script will automatically apply to job listings that match the provided filters.
 
